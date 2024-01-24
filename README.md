@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **robinnraabe@gmail.com**
 
-- 📄 Know about my [experiences](robinnraabe.github.io)
+- 📄 Know about my [experience](robinnraabe.github.io)
 
 - ⚡ Fun fact **I bike a lot**
 
