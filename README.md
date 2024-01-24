@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Twinkle Ling](https://github.com/robinnraabe/language-flashcards/)
 
-- 💬 Ask me about **react, css styling**
+- 💬 Ask me about **React, MUI, css styling**
 
 - 📫 How to reach me **robinnraabe@gmail.com**
 
